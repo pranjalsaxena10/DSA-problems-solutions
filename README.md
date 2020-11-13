@@ -14,8 +14,13 @@ Following problems are solved:
 
 
 https://leetcode.com/problems/find-the-duplicate-number/
+
 https://leetcode.com/problems/sort-colors/
+
 https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+
 https://leetcode.com/problems/merge-sorted-array/
+
 https://leetcode.com/problems/maximum-subarray/
+
 https://leetcode.com/problems/merge-intervals/
