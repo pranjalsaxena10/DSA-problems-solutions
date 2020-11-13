@@ -29,7 +29,7 @@ https://leetcode.com/problems/maximum-subarray/
 
 https://leetcode.com/problems/merge-intervals/
 
-===================================================================================
+====================================================================
 
 13th Nov 2020:
 
