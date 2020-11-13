@@ -13,19 +13,19 @@ https://leetcode.com/problems/find-the-duplicate-number/
 
 https://leetcode.com/problems/sort-colors/
 
-3. Repeat and Missing Number
+3. Repeat and Missing Number (Repeat_And_Missing_Number)
 
 https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
 
-4. Merge two sorted Arrays without extra space
+4. Merge two sorted Arrays without extra space (Merge_Sorted_Arrays)
 
 https://leetcode.com/problems/merge-sorted-array/
 
-5. Kadane’s Algorithm
+5. Kadane’s Algorithm (Kadane's_Algorithm)
 
 https://leetcode.com/problems/maximum-subarray/
 
-6. Merge Overlapping Subintervals
+6. Merge Overlapping Subintervals(Merge_Overlapping_SubInterv)
 
 https://leetcode.com/problems/merge-intervals/
 

@@ -4,6 +4,7 @@
 
 /**
  * This code is to find out repeating and missing element in given array having elements within range as 1...n
+ * One condition is also there that repeating element only occurs twice
  */
 
 /**
