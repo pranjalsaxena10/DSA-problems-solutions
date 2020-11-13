@@ -1,3 +1,11 @@
+/**
+ * https://leetcode.com/problems/find-the-duplicate-number/
+ */
+
+/**
+ * Approach with O(n) time complexity and O(1) space complexity is similar to finding cycle in LinkedList.
+    Floyd Algorithm
+ */
 class Duplicate {
     public int findDuplicate(int[] nums) {
         if(nums.length <= 1)
