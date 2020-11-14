@@ -23,6 +23,7 @@ class Solution {
     {
         // Your Code Here
         long[] temp = new long[arr.length];
+        int iterator = 0;
         
         
         return mergeSortLogic(temp, arr, 0, arr.length-1);
@@ -35,7 +36,7 @@ class Solution {
         if(low<high) {
             inversionCount += mergeSortLogic(temp, arr, low, mid);
             inversionCount += mergeSortLogic(temp, arr, mid + 1, high);
-            inversionCount += merge(temp, arr, low, mid + 1, high);    
+            inversionCount += merge(temp, arr, low, mid, high);    
         }
         
         
@@ -50,10 +51,10 @@ class Solution {
          */
          long inversionCount = 0;
          int i = left;
-         int j = mid;
+         int j = mid+1;
          int k = left;
          
-         while(i<=mid-1 && j<=right) {
+         while(i<=mid && j<=right) {
              if(arr[i] <= arr[j]) {
                  
                  temp[k++] = arr[i++];
@@ -61,12 +62,12 @@ class Solution {
              } else {
                  
                  temp[k++] = arr[j++];
-                 inversionCount += (long)(mid-i);
+                 inversionCount += (long)(mid-i+1);
                  
              }
          }
          
-         while(i<=mid-1) {
+         while(i<=mid) {
              temp[k++] = arr[i++];
          }
          
