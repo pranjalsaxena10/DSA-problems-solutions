@@ -29,3 +29,32 @@ https://leetcode.com/problems/maximum-subarray/
 
 https://leetcode.com/problems/merge-intervals/
 
+====================================================================
+
+13th Nov 2020:
+
+1. Set Matrix Zeros
+
+https://leetcode.com/problems/set-matrix-zeroes/
+
+2. Pascal Triangle
+
+https://leetcode.com/problems/pascals-triangle/
+
+3. Next Permutation
+
+https://leetcode.com/problems/next-permutation/
+
+4. Inversion of Array
+
+https://www.geeksforgeeks.org/counting-inversions/
+
+5.  Stock Buy and Sell
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+6. Rotate Matrix
+
+https://leetcode.com/problems/rotate-image/
+
+
