@@ -1,7 +1,7 @@
 # DSA-problems-solutions
 This is to maintain solutions for Data Structures and Algorithms problems.
 
-12th November 2020:
+12th November 2020(Day-1):
 
 Following problems are solved:
 
@@ -31,7 +31,7 @@ https://leetcode.com/problems/merge-intervals/
 
 ====================================================================
 
-13th Nov 2020:
+13th Nov 2020(Day-2):
 
 1. Set Matrix Zeros
 
@@ -57,4 +57,30 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 https://leetcode.com/problems/rotate-image/
 
+====================================================================
 
+21st Nov 2020(Day-3):
+
+1. Search in a 2D matrix
+
+https://leetcode.com/problems/search-a-2d-matrix/
+
+2. Pow(x,n)
+
+https://leetcode.com/problems/powx-n/
+
+3. Majority Element(>N/2 times)
+
+https://leetcode.com/problems/majority-element/
+
+4. Majority Element (>N/3 times)
+
+https://leetcode.com/problems/majority-element-ii/
+
+5. Grid Unique Paths
+
+https://leetcode.com/problems/unique-paths/
+
+6. Reverse Pairs (Leetcode)
+
+https://leetcode.com/problems/reverse-pairs/
