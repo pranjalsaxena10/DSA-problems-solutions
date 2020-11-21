@@ -17,7 +17,7 @@
   */
 
 
-class Solution {
+  class Solution {
     public int majorityElement(int[] nums) {
         /**
             Implementing Moore's voting algorithm
@@ -28,15 +28,15 @@ class Solution {
         int majorityCount = 0;
         
         for(int num: nums) {
-            if(majorityCount == 0)
-                majority = num;
-            
-            if(num == majority) {
+            if(majority == num) {
                 majorityCount++;
-                
-            } else{
-                majorityCount--;
-            }
+            } else 
+                if(majorityCount == 0) {
+                    majorityCount = 1;
+                    majority = num;
+                } else {
+                    majorityCount--;
+                }
         }
         
         return majority;
