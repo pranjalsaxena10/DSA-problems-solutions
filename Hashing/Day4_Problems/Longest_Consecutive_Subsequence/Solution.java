@@ -15,6 +15,10 @@
  *      in order to free up extra memory since it is of no longer use after it is considered
  * 4. Keep tracking of maximum length as larger - smaller - 1;
  *      because larger - smaller - 1 gives only range excluding smaller and larger which are not found in map
+ * 
+ * 5. Time Compelxity = O(n)
+ * 6. Space Complexity = O(n)
+ * 
  */
 
 class Solution {
