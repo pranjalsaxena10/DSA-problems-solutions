@@ -114,3 +114,31 @@ https://www.interviewbit.com/problems/subarray-with-given-xor/
 6. Longest substring without repeat
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+======================================================================
+
+Day 5: LinkedList
+
+1. Reverse a LinkedList
+
+https://leetcode.com/problems/reverse-linked-list/
+
+2. Find middle of LinkedList
+
+https://leetcode.com/problems/middle-of-the-linked-list/
+
+3. Merge two sorted LinkedList
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+4. Remove n-th node from back of LinkedList
+
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+5. Delete a given Node when a node is given. (0(1) solution)
+
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+6. Add two numbers as LinkedList
+
+https://leetcode.com/problems/add-two-numbers/
