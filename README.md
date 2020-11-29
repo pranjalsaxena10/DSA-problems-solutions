@@ -109,6 +109,8 @@ https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 
 https://www.geeksforgeeks.org/count-number-subarrays-given-xor/
 
+https://www.interviewbit.com/problems/subarray-with-given-xor/
+
 6. Longest substring without repeat
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
