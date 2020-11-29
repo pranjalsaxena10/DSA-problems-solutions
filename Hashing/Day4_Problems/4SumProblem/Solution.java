@@ -12,6 +12,8 @@
 /**
  * Approach: First sort the array and then apply brute force
  * This is nothing but optimized brute force
+ * 
+ * TimeComplexity: O(n^3)
  */
 
 class Solution {
