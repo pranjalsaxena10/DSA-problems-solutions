@@ -142,3 +142,35 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/
 6. Add two numbers as LinkedList
 
 https://leetcode.com/problems/add-two-numbers/
+
+Day 6: LinkedList
+
+1. Find intersection point of Y LinkedList
+
+https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+2. Detect a cycle in Linked List
+
+https://leetcode.com/problems/linked-list-cycle/
+
+3. Reverse a LinkedList in groups of size k.
+
+Reverse a LinkedList in groups of size k.
+
+4. Check if a LinkedList is palindrome or not
+
+https://leetcode.com/problems/palindrome-linked-list/
+
+5. Find the starting point of the Loop of LinkedList
+
+https://leetcode.com/problems/linked-list-cycle-ii/
+
+6. Flattening of a LinkedList
+
+https://www.geeksforgeeks.org/flattening-a-linked-list/
+
+https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+
+7. Rotate a LinkedList
+
+https://leetcode.com/problems/rotate-list/
