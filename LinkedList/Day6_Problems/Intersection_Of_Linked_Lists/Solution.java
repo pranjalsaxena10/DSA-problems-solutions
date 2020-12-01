@@ -18,6 +18,9 @@
  * 2. Calculate lengthA and lengthB for both Lists
  * 3. Iterate in the longer list upto diff of length of lists
  * 4. Check when both list variables point to same location
+ * 
+ * Time Complexity: O(N)
+ * Space Complexity: O(1)
  */
 
 /**
