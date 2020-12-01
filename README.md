@@ -157,7 +157,7 @@ https://leetcode.com/problems/linked-list-cycle/
 
 3. Reverse a LinkedList in groups of size k.
 
-Reverse a LinkedList in groups of size k.
+https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 4. Check if a LinkedList is palindrome or not
 
