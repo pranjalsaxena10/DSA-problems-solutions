@@ -30,6 +30,9 @@
  * 1. First check if k is 1 then retun head
  * 2. Calculate size if it k>size then return head
  * 3. Iterate for k times first and then reverse iterated List
+ * 
+ * Time Complexity: O(N) => Linear
+ * Space Complexity: O(1)
  */
 
 class Solution {
