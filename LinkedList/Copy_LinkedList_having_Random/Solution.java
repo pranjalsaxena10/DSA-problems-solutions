@@ -41,7 +41,12 @@ class Node {
 /**
  * Approach: 
  *
- * 1. Create
+ * 1. Create new node for every node and add it in original list
+ * 2. Then update random parameter value for new nodes with previous node's random values
+ * 3. Disconnect newly created nodes in order to form newly copied list
+ * 
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
  */
 
 class Solution {
