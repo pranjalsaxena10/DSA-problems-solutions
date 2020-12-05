@@ -169,8 +169,6 @@ https://leetcode.com/problems/linked-list-cycle-ii/
 
 6. Flattening of a LinkedList
 
-https://www.geeksforgeeks.org/flattening-a-linked-list/
-
 https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 
 7. Rotate a LinkedList
