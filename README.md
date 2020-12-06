@@ -174,3 +174,27 @@ https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 7. Rotate a LinkedList
 
 https://leetcode.com/problems/rotate-list/
+
+====================================================================
+
+Day 7: 2-pointer
+
+1. Clone a Linked List with random and next pointer
+
+https://leetcode.com/problems/copy-list-with-random-pointer/
+
+2. 3 sum
+
+https://leetcode.com/problems/3sum/
+
+3. Trapping rainwater
+
+https://leetcode.com/problems/trapping-rain-water/
+
+4. Remove Duplicate from Sorted array
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+5. Max continuous number of 1’s
+
+https://leetcode.com/problems/max-consecutive-ones/
