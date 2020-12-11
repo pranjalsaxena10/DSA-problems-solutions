@@ -198,3 +198,31 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 5. Max continuous number of 1’s
 
 https://leetcode.com/problems/max-consecutive-ones/
+
+====================================================================
+
+Day 8: Greedy Algorithms
+
+1. N meeting in one room
+
+https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+
+2. Activity Selection
+
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+3. Greedy algorithm to find minimum number of coins
+
+
+
+4. Fractional Knapsack Problem
+
+
+
+5. Minimum number of platforms required for a railway
+
+https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
+
+
+6. Job sequencing Problem
+
