@@ -212,9 +212,12 @@ https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
 
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
-4. Fractional Knapsack Problem
-5. Minimum number of platforms required for a railway
+3. Fractional Knapsack Problem
+
+https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
+
+4. Minimum number of platforms required for a railway
 
 https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
 
-6. Job sequencing Problem
+5. Job sequencing Problem
