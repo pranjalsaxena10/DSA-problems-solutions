@@ -1,4 +1,5 @@
 # DSA-problems-solutions
+
 This is to maintain solutions for Data Structures and Algorithms problems.
 
 12th November 2020(Day-1):
@@ -49,7 +50,7 @@ https://leetcode.com/problems/next-permutation/
 
 https://www.geeksforgeeks.org/counting-inversions/
 
-5.  Stock Buy and Sell
+5. Stock Buy and Sell
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
@@ -211,18 +212,9 @@ https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
 
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
-3. Greedy algorithm to find minimum number of coins
-
-
-
 4. Fractional Knapsack Problem
-
-
-
 5. Minimum number of platforms required for a railway
 
 https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
 
-
 6. Job sequencing Problem
-
