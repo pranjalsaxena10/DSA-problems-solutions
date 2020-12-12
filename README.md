@@ -221,3 +221,5 @@ https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
 https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
 
 5. Job sequencing Problem
+
+`https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#`
