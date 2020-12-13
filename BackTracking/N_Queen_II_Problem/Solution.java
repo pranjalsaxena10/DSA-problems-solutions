@@ -21,6 +21,9 @@
  * 4. First row is passed to backTrack function as 0
  * 5. Code will try each possible column position for each row queen, which are not in conflict with 
  *      previously placed queens.
+ * 
+ * Time Complexity: order of O(N!), since exhaustively all combinations are getting considered
+ * Space Complexity: O(N)
  */
 
 class Solution {
