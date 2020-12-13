@@ -30,7 +30,7 @@ https://leetcode.com/problems/maximum-subarray/
 
 https://leetcode.com/problems/merge-intervals/
 
-====================================================================
+---
 
 13th Nov 2020(Day-2):
 
@@ -58,7 +58,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 https://leetcode.com/problems/rotate-image/
 
-====================================================================
+---
 
 21st Nov 2020(Day-3):
 
@@ -86,7 +86,7 @@ https://leetcode.com/problems/unique-paths/
 
 https://leetcode.com/problems/reverse-pairs/
 
-======================================================================
+---
 
 22nd Nov 2020(Day-4):
 
@@ -116,7 +116,7 @@ https://www.interviewbit.com/problems/subarray-with-given-xor/
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-======================================================================
+---
 
 Day 5: LinkedList
 
@@ -144,7 +144,7 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 https://leetcode.com/problems/add-two-numbers/
 
-====================================================================
+---
 
 Day 6: LinkedList
 
@@ -176,7 +176,7 @@ https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 
 https://leetcode.com/problems/rotate-list/
 
-====================================================================
+---
 
 Day 7: 2-pointer
 
@@ -200,7 +200,7 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 https://leetcode.com/problems/max-consecutive-ones/
 
-====================================================================
+---
 
 Day 8: Greedy Algorithms
 
@@ -223,3 +223,14 @@ https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
 5. Job sequencing Problem
 
 https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#
+
+---
+
+
+Day 9: Backtracking
+
+1. N Queen Problem
+
+https://leetcode.com/problems/n-queens/
+
+https://leetcode.com/problems/n-queens-ii/
