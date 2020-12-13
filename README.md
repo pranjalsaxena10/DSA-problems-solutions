@@ -237,3 +237,7 @@ https://leetcode.com/problems/n-queens-ii/
 2. Sudoku Solver
 
 https://leetcode.com/problems/sudoku-solver/
+
+3. Finding all permutations of given input
+
+https://leetcode.com/problems/permutations/
