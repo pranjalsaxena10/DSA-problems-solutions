@@ -226,7 +226,6 @@ https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#
 
 ---
 
-
 Day 9: Backtracking
 
 1. N Queen Problem
@@ -234,3 +233,7 @@ Day 9: Backtracking
 https://leetcode.com/problems/n-queens/
 
 https://leetcode.com/problems/n-queens-ii/
+
+2. Sudoku Solver
+
+https://leetcode.com/problems/sudoku-solver/
