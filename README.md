@@ -22,7 +22,7 @@ https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
 
 https://leetcode.com/problems/merge-sorted-array/
 
-5. Kadane’s Algorithm (Kadane's_Algorithm)
+5. Kadane's Algorithm (Kadane's_Algorithm)
 
 https://leetcode.com/problems/maximum-subarray/
 
@@ -241,3 +241,7 @@ https://leetcode.com/problems/sudoku-solver/
 3. Finding all permutations of given input
 
 https://leetcode.com/problems/permutations/
+
+4. M Colors are given find out graph coloring is possible, with given colors
+
+https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#
