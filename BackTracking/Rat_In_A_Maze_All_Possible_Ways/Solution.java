@@ -24,7 +24,7 @@
  * 1. For each cell check we can go Up, Down, Left, Right.
  * 2. Exhaustively check for all directions by backtracking
  * 
- * Time Complexity: O((N^2)^4)
+ * Time Complexity: O((3^N)^2)
  * Space Complexity: O(N^2)
  */
 
