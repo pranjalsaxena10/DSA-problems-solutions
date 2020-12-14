@@ -245,3 +245,7 @@ https://leetcode.com/problems/permutations/
 4. M Colors are given find out graph coloring is possible, with given colors
 
 https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#
+
+5. Rat in a Maze problem to find out all possible ways in sorted order
+
+https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#
