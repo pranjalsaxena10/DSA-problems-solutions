@@ -249,3 +249,7 @@ https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#
 5. Rat in a Maze problem to find out all possible ways in sorted order
 
 https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#
+
+6. Word Break Problem(Generating all possible ways)
+
+https://practice.geeksforgeeks.org/problems/word-break-part-2/0
