@@ -269,3 +269,7 @@ https://leetcode.com/problems/combination-sum-ii/
 3. Palindrome Partitioning
 
 https://leetcode.com/problems/palindrome-partitioning/
+
+4. Kth Permutation Sequence
+
+https://leetcode.com/problems/permutation-sequence/
