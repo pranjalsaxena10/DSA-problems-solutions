@@ -8,7 +8,7 @@
  * 1. Start from last and find out (i-1)th position where nums[i] > nums[i-1]
  * 2. If no such position is found, reverse the whole given array
  * 3. Let the location is found as position
- *      Find out closest number which is greater than nums[position] by doing Binary Search
+ *      Find out greatest index whose elements is greater than nums[position]
  *      suppose this number is found at xth location
  * 4. Swap these two numbers as nums[position] and nums[x]
  * 5. Reverse array starting from position+1 and nums.length-1
@@ -33,26 +33,19 @@ class Solution {
         
         int left = position + 1;
         int right = nums.length - 1;
+        int target = nums[position];
         
-        while(left<right) {
-            
-            int midPosition = left+right+1>>1;
-            
-            if(nums[midPosition] > nums[position]) {
-                left = midPosition;
-            } else {
-                right = midPosition - 1;
-            }
-        }
+        while(right >= left && nums[right] <= target)
+            right--;
         
-        swap(nums, position, left);
+        swap(nums, position, right);
         reverse(nums, position+1, nums.length-1);
            
     }
     
     void reverse(int[] nums, int left, int right) {
         
-        while(left < right) {
+        while(left <= right) {
             swap(nums, left, right);
             left++;
             right--;
