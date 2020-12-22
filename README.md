@@ -273,3 +273,15 @@ https://leetcode.com/problems/palindrome-partitioning/
 4. Kth Permutation Sequence
 
 https://leetcode.com/problems/permutation-sequence/
+
+---
+
+Day 11: BinarySearch
+
+1. Single Element in sorted array
+
+https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+2. Median of two sorted arrays
+
+https://leetcode.com/problems/median-of-two-sorted-arrays/
