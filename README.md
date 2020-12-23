@@ -285,3 +285,7 @@ https://leetcode.com/problems/single-element-in-a-sorted-array/
 2. Median of two sorted arrays
 
 https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+3. Kth element in two sorted arrays
+
+https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0#
