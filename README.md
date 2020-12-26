@@ -297,3 +297,7 @@ Day 12: Stack and Queue
 1. Valid Parentheses
 
 https://leetcode.com/problems/valid-parentheses/
+
+2. Next Greater Element
+
+https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
