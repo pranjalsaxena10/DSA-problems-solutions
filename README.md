@@ -307,3 +307,7 @@ https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
 https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#
 
 https://www.interviewbit.com/problems/nearest-smaller-element/
+
+4. Largest Rectangle in Histogram
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/
