@@ -301,3 +301,9 @@ https://leetcode.com/problems/valid-parentheses/
 2. Next Greater Element
 
 https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
+
+3. Next Smaller Element
+
+https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#
+
+https://www.interviewbit.com/problems/nearest-smaller-element/
