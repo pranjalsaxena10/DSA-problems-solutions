@@ -311,3 +311,7 @@ https://www.interviewbit.com/problems/nearest-smaller-element/
 4. Largest Rectangle in Histogram
 
 https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+5. Sum of subarray minimums
+
+https://leetcode.com/problems/sum-of-subarray-minimums/
