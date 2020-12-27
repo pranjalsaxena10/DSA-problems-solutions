@@ -315,3 +315,7 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 5. Sum of subarray minimums
 
 https://leetcode.com/problems/sum-of-subarray-minimums/
+
+6. Sliding Window maximum
+
+https://leetcode.com/problems/sliding-window-maximum/
