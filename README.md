@@ -323,3 +323,7 @@ https://leetcode.com/problems/sliding-window-maximum/
 7. Implement Min Stack
 
 https://leetcode.com/problems/min-stack/
+
+8. LRU Cache
+
+https://leetcode.com/problems/lru-cache/
