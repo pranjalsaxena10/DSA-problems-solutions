@@ -5,7 +5,7 @@
  * Biggest note in this type of problem is to ask interviewer, whether array can have duplicates or not
  * If duplicates are not allowed then this solution works fine
  * 
- * If duplicates are allowed then we have to below condition
+ * If duplicates are allowed then we have to add below condition
  * 
  * if(nums[mid] == nums[left]) {
         left++;
