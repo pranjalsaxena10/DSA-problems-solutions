@@ -1,6 +1,20 @@
 /**
  * https://leetcode.com/problems/search-in-rotated-sorted-array/
  * 
+ * 
+ * Biggest note in this type of problem is to ask interviewer, whether array can have duplicates or not
+ * If duplicates are not allowed then this solution works fine
+ * 
+ * If duplicates are allowed then we have to below condition
+ * 
+ * if(nums[mid] == nums[left]) {
+        left++;
+        continue;
+    }
+ * This makes worst case time complexity of the solution to be O(n)
+ * If duplicates are allowed: Problem link => https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+ * 
+ * 
  * Problem: 
  * 
  * You are given an integer array nums sorted in ascending order (with distinct values), and an integer target.
@@ -47,6 +61,14 @@ class Solution {
             if(nums[mid] == target)
                 return mid;
             
+            /**
+             * This condition is required in case of duplicates are allowed in the array
+             */
+            // if(nums[mid] == nums[left]) {
+            //     left++;
+            //     continue;
+            // }
+
             if(nums[mid] >= nums[left]) {
                 if(nums[left] <= target && nums[mid] >= target)
                     right = mid - 1;
