@@ -26,6 +26,9 @@
  * 
  * Once this is done, we keep updating nums[Math.abs(nums[i])-1] with negative
  * After it is completed we check first positive value in array and return that index + 1
+ * 
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
  */
 public class FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
