@@ -18,52 +18,47 @@
  *      Binary Seach over the 1st column
  * 2. Search in this row whether target element is present or not. If found return true else return false
  *  
+ * Time Complexity: O(log n + log m)
+ * Space Complexity: O(1)
  */
 
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        if(matrix.length == 0)
-            return false;
+        int start = 0;
+        int end = matrix.length - 1;
         
-        if(matrix[0].length == 0)
-            return false;
-        
-        int rows = matrix.length;
-        int cols = matrix[0].length;
-        
-        if(target < matrix[0][0] || target > matrix[rows-1][cols-1])
-            return false;
-        
-        int firstRow = 0;
-        int lastRow = rows-1;
-        
-        while(firstRow < lastRow) {
-            int midRow = firstRow + lastRow + 1>>1;
+        while(start <= end) {
+            int mid = start + (end - start) / 2;
             
-            if(matrix[midRow][0] <= target) {
-                firstRow = midRow;
-            } else {
-                lastRow = midRow - 1;
-            }
+            if(matrix[mid][0] == target)
+                return true;
+            else
+                if(matrix[mid][0] < target)
+                    start = mid + 1;
+                else
+                    end = mid - 1;
         }
         
-        int left = 0;
-        int right = cols - 1;
+        int row = end;
         
-        while(left<=right) {
-            int mid = left+right+1>>1;
+        if(row == -1)
+            return false;
+        
+        int left = 0;
+        int right = matrix[0].length - 1;
+        
+        while(left <= right) {
+            int mid = left + (right-left)/2;
             
-            if(matrix[firstRow][mid] == target)
+            if(matrix[row][mid] == target)
                 return true;
-            
-            if(matrix[firstRow][mid] <= target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
+            else
+                if(matrix[row][mid] < target)
+                    left = mid + 1;
+                else
+                    right = mid - 1;
         }
         
         return false;
-        
     }
 }
