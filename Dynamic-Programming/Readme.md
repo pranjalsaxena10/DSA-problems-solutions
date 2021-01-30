@@ -7,7 +7,7 @@ How to identify a Dynamic Programming Problem:
 DP Problems can be summarized as below:
 
 
-| Problem | Variants |
+| Pattern | Variants |
 | - | - |
 | 0/1 Knapsack | 1. Subset Sum <br> https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/0-1_Knapsack/Solution.java <br>2. Equal Sum Parition<br>3. Count of Subset Sum <br>4. Minimum Subset Sum Difference<br> 5. Target Sum<br> 6. # of subsets with given diff |
 | Unbounded Knapsack |   |
