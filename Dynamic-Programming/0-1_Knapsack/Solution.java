@@ -31,10 +31,10 @@
  * Think of choice diagram viz. whether for each article check whether it should be included or not
  * 
  * Time Complexity:
- * O(n^2)
+ * O(n*W)
  * 
  * Space Complexity: 
- * O(n^2)
+ * O(n*W)
  * 
  */
 
