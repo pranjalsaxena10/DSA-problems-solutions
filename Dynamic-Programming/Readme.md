@@ -9,7 +9,7 @@ DP Problems can be summarized as below:
 
 | Pattern | Variants |
 | - | - |
-| 0/1 Knapsack <br> [Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/0-1_Knapsack/Solution.java) | 1. Subset Sum [Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/Subset-sum-and-equal-sum-partition/Solution.java)2. Equal Sum Parition<br>[Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/Subset-sum-and-equal-sum-partition/Solution.java)<br>3. Count of Subset Sum <br>4. Minimum Subset Sum Difference<br> 5. Target Sum<br> 6. # of subsets with given diff |
+| 0/1 Knapsack <br> [Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/0-1_Knapsack/Solution.java) | 1. Subset Sum [Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/Subset-sum-and-equal-sum-partition/Solution.java)<br>2. Equal Sum Parition<br>[Solution](https://github.com/pranjalsaxena10/DSA-problems-solutions/blob/dynamic-programming/Dynamic-Programming/Subset-sum-and-equal-sum-partition/Solution.java)<br>3. Count of Subset Sum <br>4. Minimum Subset Sum Difference<br> 5. Target Sum<br> 6. # of subsets with given diff |
 | Unbounded Knapsack |   |
 | Fibonacci |   |
 | LCS |   |
