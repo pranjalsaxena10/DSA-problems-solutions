@@ -4,6 +4,7 @@ How to identify a Dynamic Programming Problem:
 2. See in problem, something related to optimality of input is asked => like maximum, minimum or peak
 
 
+DP Problems can be summarized as below:
 
 
 | Problem | Variants |
